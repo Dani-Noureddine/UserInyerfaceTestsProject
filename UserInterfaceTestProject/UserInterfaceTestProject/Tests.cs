@@ -8,7 +8,7 @@ namespace UserInterfaceTestProject
     [AllureNUnit]
     public class Tests : BaseTest
     {
-        private static ISettingsFile TestData => new JsonSettingsFile("testData.json"); //test commit for jenkins build
+        private static ISettingsFile TestData => new JsonSettingsFile("testData.json"); 
         [Test]
         public void FillInPageCardsTest()
         {
