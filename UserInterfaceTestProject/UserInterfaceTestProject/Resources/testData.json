@@ -1,0 +1,10 @@
+{
+  "MaxNumberOfCharsInEmail": 6,
+  "MaxNumberOfCharsInDomain": 4,
+  "TotalNumberOfExtensionsInDropdown": 11,
+  "StartTimeOfTimer": "00:00:00",
+  "UploadFilePath": "\\Resources\\cat.jpg", 
+  "NumberOfInterests": 21,
+  "IndexOfUnselectAll": 21,
+  "IndexOfSelectAll": 18
+}
